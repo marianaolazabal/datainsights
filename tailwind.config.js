@@ -3,7 +3,12 @@ module.exports = {
   content: ['./*.{html,js}',
   './**/*.{html,js}',],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        neueRegular: ['NeueRegular'],
+        neueBold: ['NeueBold']
+      }
+    },
   },
   plugins: [],
 }

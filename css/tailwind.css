@@ -4,3 +4,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family:"NeueRegular";
+    src: url("../fonts/NHAASGROTESKTXPRO-55RG.TTF"); /*regular */
+
+
+}
+
+@font-face {
+    font-family:"NeueBold";
+    src: url("../fonts/NHAASGROTESKTXPRO-75BD.TTF") /*bold */
+}
