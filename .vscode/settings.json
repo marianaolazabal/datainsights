@@ -2,5 +2,6 @@
     "cSpell.words": [
         "datainsights",
         "tailwindcss"
-    ]
+    ],
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
 }
